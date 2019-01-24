@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\1\jl\formsviewgroup.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\7\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid70\lp\3\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid70\lp\4\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid70\lp\5\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid70\lp\6\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid70\lp\7\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess.Android\obj\Debug\MonoAndroid70\lp\7.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

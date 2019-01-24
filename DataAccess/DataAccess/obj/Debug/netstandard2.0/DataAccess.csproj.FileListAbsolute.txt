@@ -1,0 +1,12 @@
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Xamarin\DataAccessSQLite\DataAccess\DataAccess\obj\Debug\netstandard2.0\XamlC.stamp
